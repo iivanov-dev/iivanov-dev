@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iivanov-dev&style=for-the-badge" alt="Profile view counter" />
+  <a href="https://t.me/godzillav" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 </p>
 
 <p align="center">
@@ -7,9 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/godzillav" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=iivanov-dev&style=for-the-badge" alt="Profile view counter" />
 </p>
 
 <!-- Snake Animation -->
